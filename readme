@@ -1,0 +1,19 @@
+cdaccount is a program that keeps track of optical media stored
+for our computers. It simply stores the list of optical media present, and shows their contents when needed.
+
+How to install
+---------------------
+
+Extract the tar file, and go to the directory from the shell where the tar file has been extracted. Then, type:
+make
+
+Bugs and features
+----------------------
+
+In case you want to contribute in any way, or want to suggest something do not hesitate to write to me at arani89@gmail.com.
+
+License
+----------------------
+
+Program is licensed under GNU GPL v2.0 as defined by the Free Software Foundation (FSF).
+

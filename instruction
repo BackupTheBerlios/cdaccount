@@ -1,0 +1,5 @@
+cdaccount accepts the following options:
+
+-r <cdname>: Read the files in cdname that has been already written before.
+-w [devicefile]: Write the file structure of device pointed by devicefile. If no devicefile is given, optical media is by default assumed.
+-s <text>: Finds the media in which the given keyword is present.
